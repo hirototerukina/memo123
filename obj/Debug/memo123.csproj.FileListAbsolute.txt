@@ -1,0 +1,10 @@
+C:\Users\205\source\repos\memo123\obj\Debug\memo123.csproj.AssemblyReference.cache
+C:\Users\205\source\repos\memo123\obj\Debug\memo123.Properties.Resources.resources
+C:\Users\205\source\repos\memo123\obj\Debug\memo123.csproj.GenerateResource.cache
+C:\Users\205\source\repos\memo123\obj\Debug\memo123.csproj.CoreCompileInputs.cache
+C:\Users\205\source\repos\memo123\bin\Debug\memo123.exe.config
+C:\Users\205\source\repos\memo123\bin\Debug\memo123.exe
+C:\Users\205\source\repos\memo123\bin\Debug\memo123.pdb
+C:\Users\205\source\repos\memo123\obj\Debug\memo123.exe
+C:\Users\205\source\repos\memo123\obj\Debug\memo123.pdb
+C:\Users\205\source\repos\memo123\obj\Debug\memo123.Form1.resources
